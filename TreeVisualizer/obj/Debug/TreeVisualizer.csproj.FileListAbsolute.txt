@@ -1,0 +1,9 @@
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe.config
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.pdb
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csprojResolveAssemblyReference.cache
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.Form1.resources
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.Properties.Resources.resources
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.GenerateResource.Cache
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.exe
+D:\Bi\Bi Homework\DTA\week14\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.pdb
